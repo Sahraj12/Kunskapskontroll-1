@@ -1,0 +1,6 @@
+Weather,Road_Type,Accident_Severity,Time_of_Day
+Rainy,City Road,,Morning
+Clear,Rural Road,Moderate,Night
+Rainy,Highway,Low,Evening
+Clear,City Road,Low,Afternoon
+Rainy,Highway,Low,Morning
